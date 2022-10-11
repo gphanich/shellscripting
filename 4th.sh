@@ -1,4 +1,9 @@
 #!/bin/bash
+
+#####################################################################
+# Description: This is shell script demonstrating interactive scripts
+# Usage: ./interactivescriptdemo.sh
+#####################################################################
 read -p "Name a superhero which you like? " super_hero
 read -p "Which movie has this role? " movie_super_hero
 read -p "What is your name? " name
